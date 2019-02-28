@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PBSA_API", "PBSA_API\PBSA_API.csproj", "{D78403D8-4A5B-4F80-B2CA-F7DB4D3290AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataService", "DataService\DataService.csproj", "{623A2B29-43F1-478A-8485-94096A3E9B06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D78403D8-4A5B-4F80-B2CA-F7DB4D3290AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78403D8-4A5B-4F80-B2CA-F7DB4D3290AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78403D8-4A5B-4F80-B2CA-F7DB4D3290AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78403D8-4A5B-4F80-B2CA-F7DB4D3290AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{623A2B29-43F1-478A-8485-94096A3E9B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623A2B29-43F1-478A-8485-94096A3E9B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623A2B29-43F1-478A-8485-94096A3E9B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623A2B29-43F1-478A-8485-94096A3E9B06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0948CD70-C1F1-4C3F-BF8D-6EB157F5900C}
+	EndGlobalSection
+EndGlobal
